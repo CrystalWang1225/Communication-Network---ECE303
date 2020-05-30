@@ -1,4 +1,4 @@
-# ECE 303 Communication Networks Projects
+## ECE 303 Communication Networks Projects
 This folder contains the final project for course ECE 303 Communication Networks
 The second project is a transport layer protocol to transmit data through an unreliable channel
 
